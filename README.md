@@ -1,2 +1,2 @@
 Visit
-https://kazun-cfd.github.io/Trading_Journal/
+https://kazun-me.github.io/trading_journal/
